@@ -5,7 +5,8 @@
 									/*
 									 * Tulis NIN dan NAMA, 
 									*/
-									"10111121" => "Nadiar AS"
+									"10111121" => "Nadiar AS",
+									"10112781" => "Paulus Christofel S"
 							 ); ?>
 	<ul> <?php
 	
